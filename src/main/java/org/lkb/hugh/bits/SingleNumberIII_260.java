@@ -1,6 +1,6 @@
 package org.lkb.hugh.bits;
 
-public class SingleNumberIII260 {
+public class SingleNumberIII_260 {
   // this use xor rule
   // two number is equals, will be become zero.
   // so, we can get result of two one number
